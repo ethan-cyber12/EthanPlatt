@@ -1,1 +1,1 @@
-# EthanPlatt
+Upload index.html, style.css, and AT-7689.jpg to the repo root. Upload linked PDFs/DOCX with exact filenames. Use a sanitized public resume if possible.
