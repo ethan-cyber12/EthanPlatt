@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ethan-cyber12.github.io/EthanPlatt/sitemap.xml
